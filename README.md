@@ -35,3 +35,8 @@ A supporting Pivot Table was used to analyze the top 5 products. This analysis i
 👤 Author
 
 Created as a data analytics portfolio project using Microsoft Excel.
+## Dashboard Preview
+
+## Dashboard Preview
+
+![Sales Analysis Dashboard](Sales%20Dashboard.png)
