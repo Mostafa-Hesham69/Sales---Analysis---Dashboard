@@ -39,4 +39,6 @@ Created as a data analytics portfolio project using Microsoft Excel.
 
 ## Dashboard Preview
 
-![Sales Analysis Dashboard](SalesDashboard.png)
+## Dashboard Preview
+
+![Sales Analysis Dashboard](Sales%20Dashboard%20.png)
